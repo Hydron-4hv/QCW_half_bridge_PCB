@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:51:03 On 17/01/2017
+
+Output: Export STEP Model of complete PCB
+Type  : ExportSTEP
+From  : Variant [DUAL_BRIDGE_THD_CT_25mm_Electros] of PCB Document [QCW Bridge PCBA.PcbDoc]
+   Generated File[Export STEP Model of complete PCB_QCW Bridge PCBA-(DUAL_BRIDGE_THD_CT_25mm_Electros).step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:51:11 On 17/01/2017

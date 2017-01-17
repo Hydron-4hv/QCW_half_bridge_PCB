@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:51:18 On 17/01/2017
+
+Output: BoM CSV
+Type  : BOM
+From  : Variant [DUAL_BRIDGE_THD_CT_25mm_Electros] of Project [QCW Bridge PCBA.PrjPcb]
+   Generated File[BoM CSV-QCW Bridge PCBA(DUAL_BRIDGE_THD_CT_25mm_Electros).csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:51:24 On 17/01/2017
