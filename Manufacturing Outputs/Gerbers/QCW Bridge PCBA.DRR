@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: QCW Bridge PCBA.PcbDoc   17/01/2017  12:41:15
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : QCW Bridge PCBA.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             208       PTH        31.59inch (802.41mm)
+T2      28mil (0.711mm)                                           Round             20        PTH        3.19inch (81.08mm)
+T3      39mil (1mm)                                               Round             12        PTH        8.11inch (205.94mm)
+T4      43mil (1.1mm)                                             Round             20        PTH        1.90inch (48.26mm)
+T5      59mil (1.5mm)                                             Round             2         PTH        0.50inch (12.70mm)
+T6      63mil (1.6mm)                                             Round             12        PTH        2.67inch (67.90mm)
+T7      79mil (2mm)                                               Round             10        PTH        3.52inch (89.50mm)
+T8      126mil (3.2mm)                                            Round             4         PTH        2.76inch (70.00mm)
+T9      138mil (3.5mm)                                            Round             3         PTH        1.40inch (35.50mm)
+T10     177mil (4.5mm)                                            Round             10        PTH        12.93inch (328.41mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              301
+
+Total Processing Time (hh:mm:ss) : 00:00:00

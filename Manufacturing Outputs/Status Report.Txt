@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [QCW Bridge PCBA.PcbDoc]
+   Generated File[QCW Bridge PCBA.TXT]
+   Generated File[QCW Bridge PCBA.LDP]
+   Generated File[QCW Bridge PCBA.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:41:15 On 17/01/2017
